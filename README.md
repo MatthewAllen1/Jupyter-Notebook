@@ -1,1 +1,1 @@
-# Jupyter-Notebook
+I had heard a lot about Jupyter Notebook and decided to try to use it. I like how clean it is and how everything is a stacked layout. I need to study more on it but I wanted to get it working and gain familiarity. I used mambaforge to install my packages and launch Jupyter Notebook. 
